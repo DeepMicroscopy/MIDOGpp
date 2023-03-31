@@ -1,0 +1,43 @@
+defaults:
+  - _self_
+  - override hydra/hydra_logging: disabled
+  - override hydra/job_logging: disabled
+
+hydra:
+  output_subdir: null
+  run:
+    dir: .
+
+wandb:
+  entity: username
+  project: projectname
+
+files:
+  image_path: images
+  annotation_file: databases/MultiDomainMitoticFigureDataset.sqlite
+
+data:
+  patch_size: 512
+  batch_size: 12
+  level: 0
+  train_patches: 1000
+  valid_patches: 250
+  tumortypes: human breast cancer,canine lung cancer,canine lymphoma,canine cutaneous mast cell tumor,human neuroendocrine tumor,canine soft tissue sarcoma,human melanoma
+
+retinanet:
+  scales: 0.2,0.4,0.6,0.8,1.0
+  ratios: 1
+  sizes: 32
+
+training:
+  lr: 5e-5
+  num_epochs: 100
+  checkpoint: all
+
+x-validation:
+  train: None
+  valid: None
+
+
+
+
