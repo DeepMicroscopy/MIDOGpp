@@ -12,6 +12,7 @@ This repository contains the databases with all mitotic figure annotations of th
 
 - The [databases/](databases/) folder contains all databases in SQLite [SlideRunner](https://github.com/DeepPathology/SlideRunner) and MS COCO format. 
 - The [slide/](slide/) folder contains data loaders for working with whole slide images (WSIs).
+- The [images/](images/) folder is empty in the repository, but will be filled by running [Setup.ipynb](Setup.ipynb).
 
 ### Getting started
 
@@ -19,3 +20,4 @@ All requirements needed to run the scripts in this repository can be installed u
 
 ```pip -r requirements.txt```
 
+To download all files from figshare, please run the notebook [Setup.ipynb](Setup.ipynb). It will place all 65 GB of images in the images folder.
