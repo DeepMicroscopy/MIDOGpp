@@ -23,3 +23,9 @@ All requirements needed to run the scripts in this repository can be installed u
 ```pip -r requirements.txt```
 
 To download all files from figshare, please run the notebook [Setup.ipynb](Setup.ipynb). It will place all 65 GB of images in the images folder.
+
+### Citation
+
+If you use this dataset in your research, please cite our paper:
+
+> Aubreville, M., Wilm, F., Stathonikos, N. et al. A comprehensive multi-domain dataset for mitotic figure detection. Sci Data 10, 484 (2023). https://doi.org/10.1038/s41597-023-02327-4
