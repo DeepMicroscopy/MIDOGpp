@@ -14,7 +14,7 @@ wandb:
 
 files:
   image_path: images
-  annotation_file: databases/MultiDomainMitoticFigureDataset.sqlite
+  annotation_file: databases/MIDOG++.sqlite
 
 data:
   patch_size: 512
