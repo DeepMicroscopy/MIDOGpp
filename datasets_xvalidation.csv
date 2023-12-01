@@ -353,106 +353,106 @@ Slide;Dataset;Tumor;Scanner;Origin;Species
 402;train;human neuroendocrine tumor;Hamamatsu XR;UMC Utrecht;Human
 403;train;human neuroendocrine tumor;Hamamatsu XR;UMC Utrecht;Human
 404;train;human neuroendocrine tumor;Hamamatsu XR;UMC Utrecht;Human
-405;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-406;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-407;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-408;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-409;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-410;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-411;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-412;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-413;test;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-414;test;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-415;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-416;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-417;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-418;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-419;test;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-420;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-421;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-422;test;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-423;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-424;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-425;test;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-426;test;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-427;test;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-428;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-429;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-430;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-431;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-432;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-433;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-434;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-435;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-436;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-437;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-438;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-439;test;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-440;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-441;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-442;test;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-443;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-444;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-445;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-446;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-447;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-448;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-449;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-450;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-451;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-452;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-453;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-454;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-455;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-456;test;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-457;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-458;test;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-459;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-460;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-461;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-462;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-463;test;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-464;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-465;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-466;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-467;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-468;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-469;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-470;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-471;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-472;test;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-473;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-474;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-475;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-476;test;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-477;test;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-478;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-479;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-480;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-481;test;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-482;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-483;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-484;test;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-485;test;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-486;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-487;test;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-488;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-489;train;canine soft tissue sarcoma;3D Histech;AMC New York;Human
-490;train;canine soft tissue sarcoma;3D Histech;VMU Vienna;Human
-491;test;canine soft tissue sarcoma;3D Histech;VMU Vienna;Human
-492;train;canine soft tissue sarcoma;3D Histech;VMU Vienna;Human
-493;train;canine soft tissue sarcoma;3D Histech;VMU Vienna;Human
-494;train;canine soft tissue sarcoma;3D Histech;VMU Vienna;Human
-495;train;canine soft tissue sarcoma;3D Histech;VMU Vienna;Human
-496;train;canine soft tissue sarcoma;3D Histech;VMU Vienna;Human
-497;test;canine soft tissue sarcoma;3D Histech;VMU Vienna;Human
-498;train;canine soft tissue sarcoma;3D Histech;VMU Vienna;Human
-499;train;canine soft tissue sarcoma;3D Histech;VMU Vienna;Human
-500;train;canine soft tissue sarcoma;3D Histech;VMU Vienna;Human
-501;train;canine soft tissue sarcoma;3D Histech;VMU Vienna;Human
-502;train;canine soft tissue sarcoma;3D Histech;VMU Vienna;Human
-503;train;canine soft tissue sarcoma;3D Histech;VMU Vienna;Human
-504;test;canine soft tissue sarcoma;3D Histech;VMU Vienna;Human
+405;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+406;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+407;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+408;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+409;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+410;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+411;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+412;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+413;test;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+414;test;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+415;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+416;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+417;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+418;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+419;test;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+420;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+421;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+422;test;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+423;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+424;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+425;test;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+426;test;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+427;test;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+428;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+429;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+430;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+431;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+432;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+433;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+434;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+435;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+436;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+437;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+438;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+439;test;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+440;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+441;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+442;test;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+443;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+444;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+445;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+446;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+447;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+448;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+449;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+450;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+451;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+452;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+453;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+454;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+455;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+456;test;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+457;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+458;test;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+459;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+460;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+461;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+462;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+463;test;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+464;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+465;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+466;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+467;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+468;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+469;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+470;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+471;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+472;test;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+473;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+474;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+475;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+476;test;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+477;test;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+478;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+479;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+480;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+481;test;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+482;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+483;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+484;test;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+485;test;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+486;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+487;test;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+488;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+489;train;canine soft tissue sarcoma;3D Histech;AMC New York;Canine
+490;train;canine soft tissue sarcoma;3D Histech;VMU Vienna;Canine
+491;test;canine soft tissue sarcoma;3D Histech;VMU Vienna;Canine
+492;train;canine soft tissue sarcoma;3D Histech;VMU Vienna;Canine
+493;train;canine soft tissue sarcoma;3D Histech;VMU Vienna;Canine
+494;train;canine soft tissue sarcoma;3D Histech;VMU Vienna;Canine
+495;train;canine soft tissue sarcoma;3D Histech;VMU Vienna;Canine
+496;train;canine soft tissue sarcoma;3D Histech;VMU Vienna;Canine
+497;test;canine soft tissue sarcoma;3D Histech;VMU Vienna;Canine
+498;train;canine soft tissue sarcoma;3D Histech;VMU Vienna;Canine
+499;train;canine soft tissue sarcoma;3D Histech;VMU Vienna;Canine
+500;train;canine soft tissue sarcoma;3D Histech;VMU Vienna;Canine
+501;train;canine soft tissue sarcoma;3D Histech;VMU Vienna;Canine
+502;train;canine soft tissue sarcoma;3D Histech;VMU Vienna;Canine
+503;train;canine soft tissue sarcoma;3D Histech;VMU Vienna;Canine
+504;test;canine soft tissue sarcoma;3D Histech;VMU Vienna;Canine
 505;train;human melanoma;Hamamatsu XR;UMC Utrecht;Human
 506;train;human melanoma;Hamamatsu XR;UMC Utrecht;Human
 507;train;human melanoma;Hamamatsu XR;UMC Utrecht;Human
