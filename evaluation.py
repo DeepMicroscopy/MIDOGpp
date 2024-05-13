@@ -89,7 +89,7 @@ class MIDOG2021Evaluation():
 
             pred_dict = [{'boxes': Tensor([[x-bbox_size,y-bbox_size, x+bbox_size, y+bbox_size] for (x,y,z,_,_) in self.predictions[case]]), 
                          'labels': Tensor([1,]*len(self.predictions[case])),
-                         'scores': Tensor([sc for (x,y,z,sc,_) in self.predictions[case]])}]
+                         'scores': Tensor([sc for (x,y,z,_,sc) in self.predictions[case]])}]
             target_dict = [{'boxes': Tensor([[x-bbox_size,y-bbox_size, x+bbox_size, y+bbox_size] for (x,y,z) in self.gt[case]]),
                            'labels' : Tensor([1,]*len(self.gt[case]))}]
 
