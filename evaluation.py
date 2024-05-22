@@ -74,9 +74,9 @@ class MIDOG2021Evaluation():
     def score(self, val=True, det=0.5):
         cases = list(self.val_gt.keys()) if val else list(self.test_gt.keys())
         self._case_results={}
-        self.map_metric = MeanAveragePrecision()
+        self.map_metric = MeanAveragePrecision(box_format='xyxy', iou_type='bbox', max_detection_thresholds=[1,10,1e6], rec_thresholds=np.arange(0,1.01,0.01).tolist())
         tumor_types =  list(self.cases[self.cases['Slide'].isin([int(c[:3]) for c in cases])]['Tumor'].unique())
-        self.per_tumor_map_metric = {d: MeanAveragePrecision() for d in tumor_types}
+        self.per_tumor_map_metric = {d: MeanAveragePrecision(box_format='xyxy', iou_type='bbox', max_detection_thresholds=[1,10,1e6], rec_thresholds=np.arange(0,1.01,0.01).tolist()) for d in tumor_types}
         for idx, case in enumerate(cases):
             if case not in self.predictions:
                 print('Warning: No prediction for file: ',case)
