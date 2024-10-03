@@ -20,7 +20,7 @@ This repository contains the databases with all mitotic figure annotations of th
 
 All requirements needed to run the scripts in this repository can be installed using pip:
 
-```pip -r requirements.txt```
+```pip install -r requirements.txt```
 
 To download all files from figshare, please run the notebook [Setup.ipynb](Setup.ipynb). It will place all 65 GB of images in the images folder.
 
