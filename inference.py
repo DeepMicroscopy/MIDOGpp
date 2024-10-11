@@ -168,7 +168,8 @@ class Mitosisdetection(DetectionAlgorithm):
         self.nms_thresh = 0.4
 
         self.database = Database()
-        self.database.open(Path("databases/MultiDomainMitoticFigureDataset.sqlite"))
+        self.database.open(Path("databases/MIDOG++.sqlite")) # databases/MIDOG++.sqlite
+        
         self.uids = dict(self.database.execute('SELECT filename,uid from Slides').fetchall())
         self.gts = {}
 
@@ -183,7 +184,7 @@ class Mitosisdetection(DetectionAlgorithm):
             print("Successfully loaded model.")
 
     def move_validation_slides(self, test):
-        for slide in json.loads(self.config['x-validation']['valid']):
+        for slide in json.loads(self.config['x-validation']['value']['valid']):
             if test:
                 os.rename(os.path.join(self.config['files']['value']['image_path'], slide),
                           os.path.join(self._input_path, slide))

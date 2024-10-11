@@ -25,7 +25,7 @@ class MIDOG2021Evaluation():
 
     def load_gt(self):
         self.gt = json.load(open(self._gt_file,'r'))
-        val_files = json.loads(self.config['x-validation']['valid'])
+        val_files = json.loads(self.config['x-validation']['value']['valid'])
         for key, value in self.gt.items():
             if key in val_files:
                 self.val_gt.update({key:value})
@@ -103,11 +103,12 @@ class MIDOG2021Evaluation():
 
     def save(self):
         with open(self._output_file, "w") as f:
-                    f.write(json.dumps(self._metrics))        
+                    f.write(json.dumps(self._metrics))
+
     def evaluate(self):
         self.load_predictions()
         thresh = self.find_threshold()
-        self.score(val=False, det=thresh)
+        self.score(val=True, det=thresh)
         self._aggregate_results['det_threshold'] = thresh
         self.save()
 
